@@ -1,3 +1,3 @@
 class Greeting < ApplicationRecord
-  validates :message, presence: true, length: { maximun: 250 }
+  validates :message, presence: true, length: { maximum: 250 }
 end
