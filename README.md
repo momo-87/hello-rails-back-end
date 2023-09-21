@@ -1,10 +1,9 @@
 <a name="readme-top"></a>
-
 <div align="center">
-
-  <br/>
-  <h1>hello-rails-back-end</h1>
-
+  <img src="./photo.png" alt="photo" width="80"/>
+  <img src="./intro.png" alt="logo"/>
+  <br/>  
+  <h2><b>hello-rails-back-end</b></h2>
 </div>
 
 ## 📗 Table of Contents
@@ -49,9 +48,7 @@
 <!-- Features -->
 
 ### Key Features
-
 - API end Point
-- Link to the Frontend: 
 
 ### Link to Frontend
 [React Frontend](https://github.com/momo-87/hello-react-front-end.git)
