@@ -9,31 +9,31 @@
 
 ## 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [Link to Frontend ](#-link-to-with-)
-- [💻 Getting Started ](#-getting-started-)
+- [📖 About the Project](#hello-rails-back-end)
+  - [🛠 Built With](#🛠-built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [Link to Frontend](#link-to-frontend)
+- [💻 Getting Started](#💻-getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Run Tests](#run-tests)
-  - [👥 Authors ](#-authors-)
-- [🔭 Future Features:](#-future-features)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [📝 License ](#-license-)
+  - [👥 Authors](#👥-authors)
+- [🔭 Future Features:](#🔭-future-features)
+  - [🤝 Contributing](#🤝-contributing)
+  - [⭐️ Show your support](#️⭐️-show-your-support)
+  - [🙏 Acknowledgments](#🙏-acknowledgments)
+  - [📝 License](#📝-license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# hello-rails-back-end <a name="about-project"></a>
+# hello-rails-back-end
 
 > A Rails greeting messages API. 
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack
 
 <details>
 <!-- <summary>Frontend</summary>
@@ -48,18 +48,18 @@
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+### Key Features
 
 - API end Point
 - Link to the Frontend: 
 
-## ### Link to Frontend <a name="-link-to-front-end"></a>
+### Link to Frontend
 [React Frontend](https://github.com/momo-87/hello-react-front-end.git)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started
 
 ### Prerequisites
 
@@ -106,7 +106,7 @@ rspec spec
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors
 
 ### 👤 **Christian Momo**:
 
@@ -118,7 +118,7 @@ rspec spec
 
 - Separate front-end and backend
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -128,7 +128,7 @@ Feel free to check the [issues page](https://github.com/momo-87/hello-rails-back
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
+## ⭐️ Show your support
 
 If you liked this project, give it a ⭐️ and kindly send to me an e-mail expressing it, it would make our day and fuel our motivation.
 
@@ -136,7 +136,7 @@ If you liked this project, give it a ⭐️ and kindly send to me an e-mail expr
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments
 
 I would like to thank Microverse for this opportunity.
 
@@ -144,7 +144,7 @@ I would like to thank Microverse for this opportunity.
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
 
